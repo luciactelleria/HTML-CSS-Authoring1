@@ -1,1 +1,1 @@
-# HTML-CSS-Authorizing-1
+# HTML-CSS-Authoring-1
