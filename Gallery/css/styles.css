@@ -17,7 +17,7 @@ body {
   border-bottom: 15px solid #ffe6f5;
 }
 
-.gallery {
+.Gallery {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -29,7 +29,7 @@ body {
   padding: 20px 10px;
 }
 
-.gallery img {
+.Gallery img {
   width: 100%;
   max-width: 350px;
   height: 300px;
@@ -37,7 +37,8 @@ body {
   border-radius: 10px;
 }
 
-.gallery::after {
+.Gallery::after {
   content: "";
   width: 350px;
 }
+
