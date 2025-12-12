@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(130, 179, 116);
+}
+
+h1 {
+    color:rgb(44, 15, 110);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+
+
+#img-div {
+display: block;
+justify-content: center;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+font-size: 14px
+
+
+}
+
+#image {
+max-width: 30%;
+height: auto;
+border: 3px solid white
+
+}
+
+#tribute-info {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+p {
+    display: inline-block;
+    width: 100;
+    height: 100;
+    background-color: rgb(182, 224, 179);
+}
+
+a#tribute-link:hover {
+    color:rgb(92, 22, 69);
+}
+}
+
